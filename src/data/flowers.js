@@ -3,7 +3,7 @@ export const flowers = [
     id: 1,
     name: "Anggrek Bulan",
     description: "Anggrek bulan adalah salah satu bunga nasional Indonesia yang terkenal dengan keanggunan dan keindahannya.",
-    image: "/images/anggrek-bulan.jpg"
+    image: "/images/anggrek.jpg"
   },
   {
     id: 2,

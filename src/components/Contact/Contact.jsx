@@ -10,7 +10,7 @@ const Contact = () => {
           <div className="text-center">
             <FaPhone className="text-3xl text-green-600 mx-auto mb-4" />
             <h3 className="text-xl font-semibold mb-2">Telepon</h3>
-            <p className="text-gray-600">+62 123 4567 890</p>
+            <p className="text-gray-600">+62 821 7689 9801</p>
           </div>
           <div className="text-center">
             <FaEnvelope className="text-3xl text-green-600 mx-auto mb-4" />

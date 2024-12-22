@@ -15,7 +15,7 @@ export const SOCIAL_LINKS = [
 
 // Contact Information
 export const CONTACT_INFO = {
-  phone: "+62 123 4567 890",
+  phone: "+62 821 7689 9801",
   email: "info@tamanbunga.com",
   address: {
     street: "Jl. Bunga Indah No. 123",
