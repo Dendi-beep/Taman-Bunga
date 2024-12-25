@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from 'react-scroll';
+
 
 const Hero = () => {
   return (
@@ -9,9 +11,7 @@ const Hero = () => {
         <div>
           <h1 className="text-5xl font-bold mb-4">Selamat Datang di Taman Bunga Kami</h1>
           <p className="text-xl mb-8">Temukan keindahan dan keajaiban alam dalam koleksi bunga-bunga eksotis kami</p>
-          <button className="bg-green-500 text-white px-8 py-3 rounded-full hover:bg-green-600 transition-colors">
-            Jelajahi Sekarang
-          </button>
+          <Link to="koleksi" smooth={true} duration={500} className="inline-block bg-green-600 hover:bg-green-700 text-white py-3 px-6 rounded-full transition duration-300">Jelajahi Sekarang</Link>
         </div>
       </div>
     </section>
